@@ -9,3 +9,5 @@
 - Bake until light brown on the sides 15-20 min.
 
 - Eat - become happy
+
+- For extra deliciousness warm some chokolate and msear it on the bottmóm of the cookies.
