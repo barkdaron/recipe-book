@@ -10,4 +10,4 @@
 
 - Eat - become happy
 
-- For extra deliciousness warm some chokolate and msear it on the bottmóm of the cookies.
+- For extra deliciousness, warm some chokolate and smear it on the bottom of the cookies.
