@@ -7,7 +7,7 @@
 - salmon or ahi-tuna
 - little soy sauce
 - little sesame oil
-- sesame sadds
+- sesame flowers
 - red onion
 - green onion
 - grated ginger
