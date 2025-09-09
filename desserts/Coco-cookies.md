@@ -1,8 +1,11 @@
-# Ingredients
+# Coco Cookies
+
+## Ingredients
 - 200 g suger
 - 200 g coconut flour
 - 2 eggs
 
+## Instructions
 - Mix all together
 - Turn on the oven, 180 celcius
 - Form in small cookie tops on a oven plate
