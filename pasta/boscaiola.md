@@ -14,4 +14,4 @@
 
 TODO: these are missing
 
-Mix all and eat
+Mix all and eat well
