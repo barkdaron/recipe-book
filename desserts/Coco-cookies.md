@@ -15,9 +15,9 @@
 
 - For extra deliciousness, warm some chokolate and smear it on the bottom of the cookies.
 
-> bla bal bal bla bal
+> bla bal bal bla bal  
 > kljdf sdfjhd sfjksdf dgf dfgjl
 
 > [!NOTE]
-> What to do
+> What to do  
 > where to go
