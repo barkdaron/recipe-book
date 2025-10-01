@@ -28,7 +28,7 @@ Eat - become happy
     extra detail detail,flopflop flop
   </details>
   here we go 2
-  <details>
+  <more>
     extra detail detail,flopflop flop 2332
-  </details>
+  </more>
 </summary>
