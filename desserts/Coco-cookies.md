@@ -24,7 +24,7 @@ Eat - become happy
 
 <summary>
   here we go
-  <details>
+  <more>
     more detail detail,flopflop flop
-  </details>
+  </more>
 </summary>
