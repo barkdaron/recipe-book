@@ -24,7 +24,7 @@ Eat - become happy
 
 <summary>
   here we go
-  <details name="More">
-    more detail detail,flopflop flop
+  <details>
+    extra detail detail,flopflop flop
   </details>
 </summary>
