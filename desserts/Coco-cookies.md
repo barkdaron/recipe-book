@@ -20,3 +20,11 @@ Eat - become happy
 > [!NOTE]
 > What to do  
 > where to go
+
+
+<summary>
+  here we go
+  <details>
+    more detail detail,flopflop flop
+  </details>
+</summary>
