@@ -22,13 +22,13 @@ Eat - become happy
 > where to go
 
 
-<summary>
+<details>
   here we go
-  <details>
+  <summary>
     extra detail detail,flopflop flop
-  </details>
+  </summary>
   here we go 2
-  <more>
+  <summary>
     extra detail detail,flopflop flop 2332
-  </more>
-</summary>
+  </summary>
+</details>
